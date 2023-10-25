@@ -225,7 +225,7 @@
   border: 0;
 
   background: none;
-  background-image: url("/imagens/bars.png");
+  background-image: url("../imagens/bars.png");
 
   outline: none;
 }
